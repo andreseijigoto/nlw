@@ -1,0 +1,28 @@
+#page-confirmation {
+  display: flex;
+  background-color: #000;
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#page-confirmation a {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+#page-confirmation svg {
+  color: #34CB79;
+  font-size: 6rem;
+  margin: 0 auto 1rem;
+  display: block;
+}
+#page-confirmation h1 {
+  color: white;
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+#page-confirmation p {
+}

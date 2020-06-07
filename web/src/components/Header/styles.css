@@ -1,0 +1,19 @@
+#header {
+  margin: 48px 0 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+#header a {
+  color: var(--title-color);
+  font-weight: bold;
+  text-decoration: none;
+
+  display: flex;
+  align-items: center;
+}
+#header a svg {
+  margin-right: 16px;
+  color: var(--primary-color);
+}
